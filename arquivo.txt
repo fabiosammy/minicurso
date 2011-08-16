@@ -9,8 +9,13 @@ Linha 1
 Linha 1
 Linha 1
 Linha 1
+<<<<<<< HEAD
 Linha 1 - Editada por Kelly
 Linha 1
+=======
+Linha 1
+Linha 1 -> Editada Por Selmo :D
+>>>>>>> b04739c85c73688a08632a06cbb0c16d101686cc
 Linha 1
 Linha 1
 Linha 1
