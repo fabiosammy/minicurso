@@ -10,8 +10,13 @@ Linha 1 - Editada por Saulo Muzzolon - 16/08/11 - 16:36
 Linha 1
 Linha 1
 Linha 1
+<<<<<<< HEAD
+Linha 1
+Linha 1 + editada Leandro
+=======
 Linha 1 -> Editada Por Selmo :D
 Linha 1
+>>>>>>> b04739c85c73688a08632a06cbb0c16d101686cc
 Linha 1
 Linha 1
 Linha 1
