@@ -6,8 +6,13 @@ Linha 1
 Linha 1
 Linha 1 - Editada por Willyan
 Linha 1
+<<<<<<< HEAD
+Linha 1 ->> editada por Diego !
+Linha 1 
+=======
+Linha 1 - Editada por Saulo Muzzolon - 16/08/11 - 16:36
 Linha 1
-Linha 1 - editada por Diego.
+>>>>>>> eb62843fa626a005956c7eab226f9d667344c9a2
 Linha 1
 Linha 1
 Linha 1 -> Editada Por Selmo :D
