@@ -1,11 +1,18 @@
 Linha 1
+Linha 1 - Editada por erick
+Linha 1 - Editada por Paulo
+Linha 1 - editado por charlie
+Linha 1
+Linha 1
+Linha 1 - Editada por Willyan
+Linha 1
+Linha 1 - Editada por Saulo Muzzolon - 16/08/11 - 16:36
 Linha 1
 Linha 1
 Linha 1
+<<<<<<< HEAD
 Linha 1
-Linha 1
-Linha 1
-Linha 1
+<<<<<<< HEAD
 Linha 1
 Linha 1
 Linha 1
@@ -14,13 +21,18 @@ Linha 1 - Editada por Kelly
 Linha 1
 =======
 Linha 1
+=======
+Linha 1 + editada Leandro
+=======
+>>>>>>> dc5ded53580b3511e353bbd0e5ccbc62c1f0afce
 Linha 1 -> Editada Por Selmo :D
+>>>>>>> b04739c85c73688a08632a06cbb0c16d101686cc
+Linha 1
 >>>>>>> b04739c85c73688a08632a06cbb0c16d101686cc
 Linha 1
 Linha 1
 Linha 1
-Linha 1
-Linha 1
+Linha 1 Alterações feitas a partir do computador pgb-comp1-18
 Linha 1
 Linha 1
 Linha 1
